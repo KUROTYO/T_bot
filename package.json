@@ -1,0 +1,13 @@
+{
+  "name": "telegram-translation-bot",
+  "version": "1.0.0",
+  "description": "Telegram translation bot using Node.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
